@@ -1,0 +1,28 @@
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\bin\Debug\appPSBv1.exe.config
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\obj\Debug\appPSBv1.csprojResolveAssemblyReference.cache
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\obj\Debug\appPSBv1.Properties.Resources.resources
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\obj\Debug\appPSBv1.csproj.GenerateResource.Cache
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\bin\Debug\appPSBv1.exe
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\bin\Debug\appPSBv1.pdb
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\obj\Debug\appPSBv1.exe
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\obj\Debug\appPSBv1.pdb
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\bin\Debug\SqlServerConnections.dll
+D:\17.11.1452\pertemuan8\appPSBv1\appPSBv1\bin\Debug\SqlServerConnections.pdb
+D:\17.11.1452\After UTS\appPSBv1\appPSBv1\bin\Debug\appPSBv1.exe.config
+D:\17.11.1452\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.exe
+D:\17.11.1452\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\appPSBv1.exe.config
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\appPSBv1.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\appPSBv1.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\SqlServerConnections.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\SqlServerConnections.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.csprojResolveAssemblyReference.cache
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.Properties.Resources.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.csproj.GenerateResource.Cache
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\Google.Protobuf.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\MySql.Data.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\Google.Protobuf.xml
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\bin\Debug\MySql.Data.xml
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\After UTS\appPSBv1\appPSBv1\obj\Debug\appPSBv1.Login.resources

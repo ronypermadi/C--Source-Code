@@ -1,0 +1,18 @@
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\bin\Debug\Sistem Informasi Akademis.exe.config
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\bin\Debug\Sistem Informasi Akademis.exe
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\bin\Debug\Sistem Informasi Akademis.pdb
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.csprojAssemblyReference.cache
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem_Informasi_Akademis.Login.resources
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem_Informasi_Akademis.Properties.Resources.resources
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.csproj.GenerateResource.cache
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.csproj.CoreCompileInputs.cache
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.exe
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.pdb
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\bin\Debug\SqlServerConnections.dll
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\bin\Debug\SqlServerConnections.pdb
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\bin\Debug\SqlServerConnections.dll.config
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.csproj.CopyComplete
+C:\Users\Lucky Adhikrisna W\source\repos\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem_Informasi_Akademis.View.Admin.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\Sistem Informasi Akademis\Sistem Informasi Akademis\bin\Debug\Sistem Informasi Akademis.exe.config
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\After UTS\Sistem Informasi Akademis\Sistem Informasi Akademis\obj\Debug\Sistem Informasi Akademis.pdb

@@ -1,0 +1,125 @@
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe.config
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.pdb
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csprojAssemblyReference.cache
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.Properties.Resources.resources
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.GenerateResource.cache
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.CoreCompileInputs.cache
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.exe
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.pdb
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmRegister.resources
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.dll
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.dll
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.xml
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.xml
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.CopyComplete
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAdmin.resources
+D:\ALL TUGAS\AMIKOM\Semester 3\4. PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.frmLogin.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe.config
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.pdb
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.dll
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.dll
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.xml
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.xml
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csprojAssemblyReference.cache
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.Properties.Resources.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAdmin.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmRegister.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.frmLogin.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.GenerateResource.cache
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.CoreCompileInputs.cache
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.CopyComplete
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.exe
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.pdb
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmUser.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe.config
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csprojResolveAssemblyReference.cache
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.Properties.Resources.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAdmin.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmRegister.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.frmLogin.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmUser.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.GenerateResource.Cache
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.xml
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.xml
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCustomer.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPaket.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe.config
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csprojResolveAssemblyReference.cache
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.Properties.Resources.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAdmin.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCustomer.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPaket.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmRegister.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.frmLogin.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmUser.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmVendor.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.GenerateResource.Cache
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.xml
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.xml
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCekID.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPesanan.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe.config
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.pdb
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.dll
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.dll
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.xml
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.xml
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csprojAssemblyReference.cache
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.Properties.Resources.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAdmin.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCekID.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCustomer.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPaket.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.frmLogin.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPesanan.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmRegister.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmUser.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmVendor.resources
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.GenerateResource.cache
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.CoreCompileInputs.cache
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.CopyComplete
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.exe
+D:\FINAL PROJECT TERBARU\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.pdb
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAgenda.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCekID.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPesanan.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmVendor.resources
+D:\PEMROGRAMAN LANJUT\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmDetail.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe.config
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.exe
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\WeddingDream.pdb
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.dll
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\Google.Protobuf.xml
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\bin\Debug\MySql.Data.xml
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csprojResolveAssemblyReference.cache
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.Properties.Resources.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAdmin.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmAgenda.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCekID.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmCustomer.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmDetail.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPaket.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.frmLogin.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmPesanan.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmRegister.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmUser.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.View.frmVendor.resources
+F:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Wedding Dream Fix\FINAL PROJECT\WeddingDream\WeddingDream\obj\Debug\WeddingDream.csproj.GenerateResource.Cache

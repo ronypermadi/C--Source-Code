@@ -1,0 +1,6 @@
+E:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Laporan2\Coding\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Laporan2\Coding\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Laporan2\Coding\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Laporan2\Coding\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Laporan2\Coding\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Universitas Amikom Yogyakarta\Pemrograman Lanjut\Laporan2\Coding\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
